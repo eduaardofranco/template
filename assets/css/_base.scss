@@ -1,0 +1,12 @@
+body {
+  margin: 0px;
+  color: $color;
+  font-family: $font;
+  font-size: $font;
+}
+* {
+	box-sizing: border-box;
+}
+textarea {
+	resize: none;
+}
